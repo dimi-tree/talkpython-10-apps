@@ -52,7 +52,7 @@ def display_cats(folder):
 def main():
     print_the_header()
     folder = get_or_create_output_folder()
-    # download_cats(folder)
+    download_cats(folder)
     display_cats(folder)
 
 
