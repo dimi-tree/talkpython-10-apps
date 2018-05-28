@@ -1,6 +1,9 @@
 # talkpython-10-apps
 Code for [Python Jumpstart by Building 10 Apps](https://talkpython.fm/course) course by [Michael Kennedy](https://twitter.com/mkennedy).
 
+The 8 out of 10 apps
+===================
+
 3. [**Birthday app**](https://github.com/d-me-tree/talkpython-10-apps/blob/master/03_birthday/program.py)
 4. [**Personal journal**](https://github.com/d-me-tree/talkpython-10-apps/blob/master/04_journal/program.py)
     * [event loop](https://github.com/d-me-tree/talkpython-10-apps/blob/master/04_journal/program.py#L15)
